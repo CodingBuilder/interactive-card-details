@@ -462,6 +462,7 @@ body {
   .page .right .container {
     width: 90%;
     margin-top: 140px;
+    margin-bottom: 30px;
   }
 }
 
