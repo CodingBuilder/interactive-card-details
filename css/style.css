@@ -443,8 +443,7 @@ body {
 
 @media (max-width: 500px) {
   .page .right {
-    width: 96.5%;
-    margin: 0;
+    width: 100%;
   }
 }
 
@@ -461,8 +460,8 @@ body {
 @media (max-width: 500px) {
   .page .right .container {
     width: 90%;
-    margin-top: 140px;
-    padding-bottom: 50px;
+    margin-top: 110px;
+    padding-bottom: 90px;
   }
 }
 
